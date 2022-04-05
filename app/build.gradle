@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.twoactivities"
+        applicationId "com.example.intentchallenge"
         minSdk 22
         targetSdk 32
         versionCode 1
