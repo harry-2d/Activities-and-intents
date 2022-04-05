@@ -1,4 +1,4 @@
-package com.example.twoactivities;
+package com.example.intenthomework;
 
 import org.junit.Test;
 
